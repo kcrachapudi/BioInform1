@@ -1,0 +1,4 @@
+FASTQ=../data/sample.fastq
+REFERENCE=../reference/reference.fa
+OUTPUT=../results
+LOG=../logs/pipeline.log
